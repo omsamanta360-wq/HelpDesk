@@ -9,4 +9,4 @@ An all-in-one platform where users can search, explore and compare Doctors, Coll
 
 ## Team Members
 - Sayan Dey
-- Friend Name
+- Sagar Samanta
